@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+<img alt="b31af80f3795e1724fc1814cd9f1c7ec" src="https://github.com/user-attachments/assets/d2de464e-6e9d-4b4d-a4f2-db05e23dae28" width="400" align="right"/>
+</p>
 
-<!--
-**Scipereer/Scipereer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img alt="d365db243ba4c0997964764052e3997e" src="https://github.com/user-attachments/assets/4dbd230d-f6c8-492a-bdac-eed67888e4f8"  width="300"/>
+</p>
+    <p align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    h+c welcomed. int anytime.
+  Art does not belong to me unless stated.
+    </p>
